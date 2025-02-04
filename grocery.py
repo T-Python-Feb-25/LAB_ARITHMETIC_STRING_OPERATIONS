@@ -11,7 +11,7 @@ Tax_Rate = 7.5
 Subtotal = Price * Quantity
 
 #Discount Code 
-Discount_Code = input("Enter your discount code /nIf you dont have code just write 'NO' ")
+Discount_Code = input("Enter your discount code \nIf you dont have code just write 'NO' ")
 
 #If conditions 
 if Discount_Code == "50":
