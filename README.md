@@ -17,6 +17,7 @@ You are a cashier at a grocery store. Write a Python program to calculate the to
 7. Print the subtotal, tax, and total costs, formatted as currency (e.g., $8.97 for the total cost).
 
 Example output:
+
 ```
 Price of item: $2.99
 Quantity: 3
@@ -27,12 +28,12 @@ Tax: $0.67
 Total: $9.64
 ```
 
-
 ## Bonus, create a new python file and do the following:
 
 - Define a string variable containing a sentence with at least 10 words.
 - Define a string variable containing a word that appears in the sentence.
 - Print the length of the sentence.
+
 - Print the index of the first occurrence of the word in the sentence.
 - Print the number of times the word appears in the sentence.
 - Print the sentence in all uppercase letters.
