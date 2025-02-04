@@ -14,6 +14,11 @@ tax = subtotal * tax_rate
 # Calculate the total
 total = subtotal + tax
 
+# Print the price, quantity, and tax rate
+print(f"Price of item: ${price:.2f}")
+print(f"Quantity: {quantity}")
+print(f"Tax rate: {tax_rate * 100:.1f}%")  # Multiply tax_rate by 100 to show the percentage
+print()
 # Print the subtotal, tax, and total costs formatted as currency
 print(f"Subtotal: ${subtotal:.2f}")
 print(f"Tax: ${tax:.2f}")
