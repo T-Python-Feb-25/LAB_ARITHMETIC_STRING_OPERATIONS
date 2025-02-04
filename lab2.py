@@ -1,6 +1,6 @@
-price:float = 2.99
-quantity:int = 3
-tax_rate:int = 7.5
+price:float = 10
+quantity:int = 5
+tax_rate:int = 15
 
 
 subtotal:float = price * quantity
